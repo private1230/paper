@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anandadhikari/rock_paper_scissor/static/css/main.48d3b07c.chunk.css",
+    "main.js": "/anandadhikari/rock_paper_scissor/static/js/main.6f8c04b5.chunk.js",
+    "main.js.map": "/anandadhikari/rock_paper_scissor/static/js/main.6f8c04b5.chunk.js.map",
+    "runtime-main.js": "/anandadhikari/rock_paper_scissor/static/js/runtime-main.03027da7.js",
+    "runtime-main.js.map": "/anandadhikari/rock_paper_scissor/static/js/runtime-main.03027da7.js.map",
+    "static/js/2.776847f0.chunk.js": "/anandadhikari/rock_paper_scissor/static/js/2.776847f0.chunk.js",
+    "static/js/2.776847f0.chunk.js.map": "/anandadhikari/rock_paper_scissor/static/js/2.776847f0.chunk.js.map",
+    "index.html": "/anandadhikari/rock_paper_scissor/index.html",
+    "precache-manifest.e802a7380b88171edd83e87fd4e0353c.js": "/anandadhikari/rock_paper_scissor/precache-manifest.e802a7380b88171edd83e87fd4e0353c.js",
+    "service-worker.js": "/anandadhikari/rock_paper_scissor/service-worker.js",
+    "static/css/main.48d3b07c.chunk.css.map": "/anandadhikari/rock_paper_scissor/static/css/main.48d3b07c.chunk.css.map",
+    "static/js/2.776847f0.chunk.js.LICENSE.txt": "/anandadhikari/rock_paper_scissor/static/js/2.776847f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03027da7.js",
+    "static/js/2.776847f0.chunk.js",
+    "static/css/main.48d3b07c.chunk.css",
+    "static/js/main.6f8c04b5.chunk.js"
+  ]
+}

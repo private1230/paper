@@ -39,7 +39,7 @@ class App extends React.Component {
       this.setState({
         showPopup: false
       });
-     }, 4300);
+     }, 4000);
     }
  
   pop()
