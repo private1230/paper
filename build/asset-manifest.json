@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/anandadhikari/rock_paper_scissor/static/css/main.48d3b07c.chunk.css",
-    "main.js": "/anandadhikari/rock_paper_scissor/static/js/main.6f8c04b5.chunk.js",
-    "main.js.map": "/anandadhikari/rock_paper_scissor/static/js/main.6f8c04b5.chunk.js.map",
-    "runtime-main.js": "/anandadhikari/rock_paper_scissor/static/js/runtime-main.03027da7.js",
-    "runtime-main.js.map": "/anandadhikari/rock_paper_scissor/static/js/runtime-main.03027da7.js.map",
-    "static/js/2.776847f0.chunk.js": "/anandadhikari/rock_paper_scissor/static/js/2.776847f0.chunk.js",
-    "static/js/2.776847f0.chunk.js.map": "/anandadhikari/rock_paper_scissor/static/js/2.776847f0.chunk.js.map",
-    "index.html": "/anandadhikari/rock_paper_scissor/index.html",
-    "precache-manifest.e802a7380b88171edd83e87fd4e0353c.js": "/anandadhikari/rock_paper_scissor/precache-manifest.e802a7380b88171edd83e87fd4e0353c.js",
-    "service-worker.js": "/anandadhikari/rock_paper_scissor/service-worker.js",
-    "static/css/main.48d3b07c.chunk.css.map": "/anandadhikari/rock_paper_scissor/static/css/main.48d3b07c.chunk.css.map",
-    "static/js/2.776847f0.chunk.js.LICENSE.txt": "/anandadhikari/rock_paper_scissor/static/js/2.776847f0.chunk.js.LICENSE.txt"
+    "main.css": "/rock_paper_scissor/static/css/main.effd7a11.chunk.css",
+    "main.js": "/rock_paper_scissor/static/js/main.9d4bd043.chunk.js",
+    "main.js.map": "/rock_paper_scissor/static/js/main.9d4bd043.chunk.js.map",
+    "runtime-main.js": "/rock_paper_scissor/static/js/runtime-main.00a5161e.js",
+    "runtime-main.js.map": "/rock_paper_scissor/static/js/runtime-main.00a5161e.js.map",
+    "static/js/2.fa8d288e.chunk.js": "/rock_paper_scissor/static/js/2.fa8d288e.chunk.js",
+    "static/js/2.fa8d288e.chunk.js.map": "/rock_paper_scissor/static/js/2.fa8d288e.chunk.js.map",
+    "index.html": "/rock_paper_scissor/index.html",
+    "precache-manifest.a81298cf59e2c7da74c9b6b0ff1c9de5.js": "/rock_paper_scissor/precache-manifest.a81298cf59e2c7da74c9b6b0ff1c9de5.js",
+    "service-worker.js": "/rock_paper_scissor/service-worker.js",
+    "static/css/main.effd7a11.chunk.css.map": "/rock_paper_scissor/static/css/main.effd7a11.chunk.css.map",
+    "static/js/2.fa8d288e.chunk.js.LICENSE.txt": "/rock_paper_scissor/static/js/2.fa8d288e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.03027da7.js",
-    "static/js/2.776847f0.chunk.js",
-    "static/css/main.48d3b07c.chunk.css",
-    "static/js/main.6f8c04b5.chunk.js"
+    "static/js/runtime-main.00a5161e.js",
+    "static/js/2.fa8d288e.chunk.js",
+    "static/css/main.effd7a11.chunk.css",
+    "static/js/main.9d4bd043.chunk.js"
   ]
 }
